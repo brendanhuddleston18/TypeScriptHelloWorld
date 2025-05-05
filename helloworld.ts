@@ -38,3 +38,4 @@ function makeNewPerson(name: string, age: number, hobbies: string[]):void {
 
 makeNewPerson('Brendan', 27, ['Photography', 'Gym', 'Golf']);
 
+export {};
